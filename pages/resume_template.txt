@@ -1,0 +1,13 @@
+[Candidate Name]
+[Contact Information]
+
+Objective: Apply my expertise in {{RELEVANT_EXPERIENCE}} to achieve success in the role of {{JOB_TITLE}}.
+
+Experience:
+[LLM to insert tailored experience highlights]
+
+Education:
+[LLM to insert relevant education]
+
+Skills:
+[LLM to highlight relevant skills]
